@@ -7,7 +7,11 @@ from import_export.widgets import ForeignKeyWidget
 from .models import Category, Subcategory, Product, SpecificationTable, SpecificationRow, Blog, HeroBanner
 from allauth.socialaccount.models import SocialApp
 from django.core.cache import cache
+from Marinc.company_settings import COMPANY_NAME
 
+admin.site.site_header = f"{COMPANY_NAME} Admin"
+admin.site.site_title = f"{COMPANY_NAME} Admin Portal"
+admin.site.index_title = "Welcome to the Admin Dashboard"
 admin.site.unregister(SocialApp)
 
 # Register your custom admin

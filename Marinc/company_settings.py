@@ -1,0 +1,6 @@
+COMPANY_NAME = "Marinc Systems Ltd"
+COMPANY_EMAIL = "info@marincsystems.co.ke"
+COMPANY_PHONE = "+254 111 808073"
+COMPANY_ADDRESS = "Said Bin Seif Building, Meru Road, Mombasa, Opp. Fantasy Restaurant"
+PRIMARY_COLOR = "#0B3D91"
+SECONDARY_COLOR = "#F2A900"
