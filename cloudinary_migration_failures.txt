@@ -1,0 +1,933 @@
+EDGE → MARINC CLOUDINARY MIGRATION FAILURES
+======================================================================
+
+Product ID : 365
+Name       : Ubiquiti UniFi 48-Port PoE Switch (USW-48-PoE)
+Public ID  : products/jc44abknofuwxplakwd5
+Error      : Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 366
+Name       : Ubiquiti UniFi 48 Port PoE Pro Switch (USW-Pro-48-POE)
+Public ID  : products/nsksgercoankpjcnc1kn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 367
+Name       : Ubiquiti UniFi 24 Port PoE Pro Switch (USW-Pro-24-POE)
+Public ID  : products/n2wrdveokxehafi2tati
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 368
+Name       : Ubiquiti UniFi Switch Pro Max 48 (USW-Pro-Max-48)
+Public ID  : products/tyw3z3rplineaxpjujc2
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 369
+Name       : Cisco AIR-CAP1702I-E-K9 WLAN Wireless Access Point
+Public ID  : products/bkfsgfm38yrwcgycoh8r
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 370
+Name       : Cisco AIR-CAP2702I-E-K9 Wireless Access Point
+Public ID  : products/u5sgju3a5lilxt0zfuek
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 371
+Name       : Cisco AIR-CAP3702I-E-K9 Aironet Wireless Access Point
+Public ID  : products/qbuos6eheyokqa2ggbo0
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 372
+Name       : Cisco AIR-AP1832I-E-K9 Wireless Access Point
+Public ID  : products/f2msajwsrho9azflk85b
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 373
+Name       : Cisco AIR-AP1852I-S-K9 Wireless Access Point
+Public ID  : products/toufg39wuutikirven8q
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 374
+Name       : Cisco AIR-AP2802I-E-K9 Wireless Access Point
+Public ID  : products/qmns51dww7o6jwc8anir
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 375
+Name       : Cisco AIR-AP3802I-E-K9 Aironet Wireless Access Point
+Public ID  : products/ojuq83imydnksfbfex2s
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 376
+Name       : Cisco C9105AXI-E Catalyst Wireless Access Point
+Public ID  : products/wofkenm12psbetg29dz7
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 377
+Name       : Cisco C9115AXI-E Catalyst Wireless Access Point
+Public ID  : products/m1dgu3j89xwtenmab3bb
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 378
+Name       : Cisco C9120AXI-E Catalyst Wireless Access Point
+Public ID  : products/ozz4ag4x01jmcfkrduoh
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 379
+Name       : Cisco C9130AXI Catalyst Wireless Access Point
+Public ID  : products/wcnbmoyl27f88pskqomt
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 380
+Name       : Cisco C9164I Wireless Access Point
+Public ID  : products/jqdpghypd4h1bwxkopvr
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 381
+Name       : Cisco WS-C3750G-24PS-S Catalyst 3750 24-Port POE Switch
+Public ID  : products/t7pjx9cccv3wgqcmmbqs
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 382
+Name       : Cisco WS-C3750G-48PS-S Catalyst 3750 48-Port PoE Switch
+Public ID  : products/o7pu0kazcny2mcgf2or6
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 383
+Name       : Cisco WS-C2960-24TC-L 2960 24 10/100 Catalyst Switch
+Public ID  : products/sajb2ikngxbmuqt3j5b7
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 384
+Name       : Cisco WS-C2960-24PC-L 2960 24-PORT Catalyst 10/100 Switch
+Public ID  : products/hfh1abyttvs79j8qvjf8
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 385
+Name       : Cisco WS-C2960-48PST-S Catalyst 2960 Series Switch
+Public ID  : products/zpzzp1c9mzzfmkdgfgd0
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 386
+Name       : Cisco WS-C3850-24T-S 24-P GbE L3 Managed Stack Switch Network 2PS C3850-NM-4-10G
+Public ID  : products/msd5aehzwk1kr7zhzd7m
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 387
+Name       : Cisco WS-C3850-48T-S 48-P GbE L3 Managed Stack Switch Network 2PS C3850-NM-4-10G
+Public ID  : products/cb3jdibbhyzjvzxcemlu
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 388
+Name       : Cisco WS-C3850-24S-S  Catalyst 3850 Switch
+Public ID  : products/cpsmv6b3flkj52o23zny
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 389
+Name       : Cisco WS-C3850-48S-S Catalyst 3850 Switch
+Public ID  : products/slvokt6i1hdo7myzj5px
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 390
+Name       : Cisco C1000-24T-4G-L Network Switch
+Public ID  : products/iyeb1izjjknaw992dbmc
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 391
+Name       : Cisco C1000-48T-4G-L Network Switch
+Public ID  : products/b28km1zza5vyu8i6nqff
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 392
+Name       : Cisco Catalyst 1200-24T-4G Smart Switch, 24 Port GE
+Public ID  : products/mxqwj2lawwfikqsjkuok
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 393
+Name       : Cisco Catalyst 1200-48T-4G Smart Switch, 48 Port GE
+Public ID  : products/dt6mtuse1dsc7s70o0cy
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 394
+Name       : Cisco C1300-24T-4G Switch
+Public ID  : products/gota3vsdlvoctlxr3gr6
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 395
+Name       : Cisco C1300-48T-4G Switch
+Public ID  : products/mllllqgjkoqz6ukvapmy
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 396
+Name       : Cisco C9200-24T Switch
+Public ID  : products/d3t62zt0v81hoynkpfel
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 397
+Name       : Cisco C9200-48T Switch
+Public ID  : products/w5itag8asy0jmrexkjbk
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 398
+Name       : Cisco C9200L-24P-4G Switch
+Public ID  : products/qy2nnqafobiemyo69cj4
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 399
+Name       : Cisco C9200L-48P-4G Switch
+Public ID  : products/bke61njb3bwi997m6a2e
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 400
+Name       : Cisco C9300-24T Switch
+Public ID  : products/o1wqwqn7qmdnwxmd6s8n
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 401
+Name       : Cisco C9300-48T Switch
+Public ID  : products/vqlysluej73sze5jw0ug
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 402
+Name       : Cisco C9300-24P Switch
+Public ID  : products/cbwc0vhha3erdjd760fe
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 403
+Name       : Cisco C9300-48P Switch
+Public ID  : products/e3qu1iwdacboe2hcuydl
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 404
+Name       : Cisco 819 4G LTE 2.0 Machine-to-Machine Integrated Services Router
+Public ID  : products/y2prrtzlnmmr0n9egpnl
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 405
+Name       : CISCO C891F-K9 Integrated Services Router
+Public ID  : products/kkmzfse2ktd9gkudibma
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 406
+Name       : CISCO 897VA Router Integrated Services
+Public ID  : products/jul72mzwgc1mq80pd1qg
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 407
+Name       : CISCO ISR C1101-4P Integrated Services Router
+Public ID  : products/jk5fmidpu8mqg8k4resw
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 408
+Name       : CISCO ISR C1111X-8P Integrated Services Router
+Public ID  : products/dy0rmp85zwd1s6agduus
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 409
+Name       : CISCO C1121X-8PLTEPW Integrated Services Router
+Public ID  : products/mufdalyesduoawq6xsti
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 410
+Name       : CISCO 4221K9 Integrated Services Router
+Public ID  : products/xzutfuuyw3fxaybxvfum
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 411
+Name       : CISCO 4321K9 Integrated Services Router
+Public ID  : products/rt6lqzxm41qcdbgnadt1
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 412
+Name       : CISCO 4451X Integrated Services Router
+Public ID  : products/ryramfbdm6d0wuc0egzt
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 414
+Name       : CISCO C8200L-1N-4T Catalyst Router
+Public ID  : products/s3hu4edfcyywyzf6fv4x
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 415
+Name       : CISCO C8300L-1N-1S-4T2X Catalyst Router
+Public ID  : products/afxy6orwymieyxrnfi6l
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 416
+Name       : Alcatel-Lucent OmniAccess stellar AP1511 Access Point
+Public ID  : products/i8pt3g8edfireaigo05r
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 417
+Name       : Alcatel-Lucent OmniAccess stellar AP1521 Access Point
+Public ID  : products/kb6jxqzb97gs9u1dfsyl
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 418
+Name       : Alcatel-Lucent OmniAccess stellar AP1301 Access Point
+Public ID  : products/pcrbe1s88evgqvsqfy6z
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 419
+Name       : Alcatel-Lucent OmniAccess stellar AP1301H Access Point
+Public ID  : products/gjkhlw1azaknbm4pl52a
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 420
+Name       : Alcatel-Lucent OmniAccess stellar AP1320 Access Point
+Public ID  : products/e3izdfwe5zgyt98xstdl
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 421
+Name       : Alcatel-Lucent OmniAccess stellar AP1360 Access Point
+Public ID  : products/g4r1mxr2dghsmb8i3kqy
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 422
+Name       : Alcatel-Lucent OmniAccess stellar AP1101 Access Point
+Public ID  : products/x6evtw5gfgcpzpnxanzj
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 423
+Name       : Alcatel-Lucent OmniAccess stellar AP1201 Access Point
+Public ID  : products/ybdez1xdnvev71jupnr2
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 424
+Name       : Alcatel-Lucent OmniAccess stellar AP1230 Access Point
+Public ID  : products/azpej93ivv0o6aovetrs
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 425
+Name       : Alcatel-Lucent OmniAccess stellar AP1261 Access Point
+Public ID  : products/rjhxqayhimnc2qdfw1zb
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 428
+Name       : Alcatel-Lucent OS6360 24-port POE Gigabit Switch
+Public ID  : products/s58emirzph9psd8hzikw
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 429
+Name       : Alcatel-Lucent OS6360 48-port POE Gigabit Switch
+Public ID  : products/u7xzyrwfccvf7qmbi4lx
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 430
+Name       : Alcatel-Lucent OS6360-P24 Stackable Gigabit Ethernet LAN Switch
+Public ID  : products/ekje15shp3zpiqctfusk
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 431
+Name       : Alcatel-Lucent OS6360-P48 Stackable Gigabit Ethernet LAN Switch
+Public ID  : products/vj1ngynnnh3dxwl9gh3g
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 434
+Name       : Alcatel-Lucent OS6560-P24Z8 Stackable Gigabit Switch
+Public ID  : products/c4tugngvlhuoowhjx0uy
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 435
+Name       : Alcatel-Lucent OS6560-P48Z16 Stackable Gigabit Switch
+Public ID  : products/l9cx4ks3unblohwzgguq
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 436
+Name       : Alcatel-Lucent OS6860-P24 Stackable Gigabit Switch
+Public ID  : products/pxnexpbprkixfuibok29
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 437
+Name       : Alcatel-Lucent OS6860-P48 Stackable Gigabit Switch
+Public ID  : products/e06qubadgtchrrrdztz1
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 438
+Name       : Alcatel-Lucent OS6860-P24Z8 Stackable Gigabit Switch
+Public ID  : products/jg9t0rffk1dxiq2e0jyc
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 439
+Name       : Alcatel-Lucent OS6860N-P48Z16 Stackable Gigabit Switch
+Public ID  : products/bw83wuwx15cihtj9n7f6
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 440
+Name       : Giganet CAT 8 Solid S/FTP LSOH Cable - 305m drum
+Public ID  : products/yjgf9ipimlldr7we1rwj
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 441
+Name       : Giganet CAT 7A Solid S/FTP LSOH Cable - 305m drum
+Public ID  : products/a0svig2hoo6pml6muain
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 442
+Name       : Giganet CAT 6A Solid S/FTP, LSZH-FI Cable - 305m drum
+Public ID  : products/sclfyydfsttiwcjy7emi
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 443
+Name       : Giganet CAT 6A Steel Wire Armoured, Solid S/FTP Double Jacket LSOH Cable
+Public ID  : products/velvvwry2khdtnyb1o9j
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 444
+Name       : Giganet CAT 6A Solid U/UTP LDPE Cable - 305m drum
+Public ID  : products/cm1la1u1pteadjnue1oa
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 445
+Name       : Giganet CAT 6A Solid U/UTP LSOH Cable - 305m drum
+Public ID  : products/h0eqbiprcoepic8fqpcq
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 446
+Name       : Giganet CAT 6A Solid U/UTP PVC Cable - 305m drum
+Public ID  : products/ilapqry4bewsri5j8fms
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 447
+Name       : Giganet CAT 6A Solid S/FTP LSOH Cable - 305m drum
+Public ID  : products/db5zhflzhzhwxvxybzex
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 448
+Name       : Giganet CAT 6A Solid F/FTP LDPE Cable - 305m drum
+Public ID  : products/ffgdxu7xeygnbci95j0t
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 449
+Name       : Giganet CAT 6A Solid F/FTP LSOH Cable - 305m drum
+Public ID  : products/g1wv2xxtmduj1yilfugj
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 450
+Name       : Giganet CAT 6A Solid F/FTP PVC Cable - 305m drum
+Public ID  : products/ruavdcugmx9tzzglvqzc
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 451
+Name       : Giganet CAT 6A Solid F/UTP LDPE Cable - 305m drum
+Public ID  : products/x0k0fjwln7lhkkcy2osd
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 452
+Name       : Giganet CAT 6A Solid F/UTP PVC Cable - 305m drum
+Public ID  : products/mvz2vze1lvwvpynnod5n
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 453
+Name       : Giganet CAT 6 UTP 23-AWG PE Black Cable -305m Reel
+Public ID  : products/otmdtfnb9ygt06motqkx
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 454
+Name       : Giganet CAT 6 UTP 23-AWG LSOH Violet Cable-305m Box
+Public ID  : products/vl1ehnmvec3v4bpzbkkv
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 455
+Name       : Giganet Tight Buffered Fibre Cable
+Public ID  : products/ebm61clrxg5ttwlx8weo
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 456
+Name       : Giganet Flat Drop LSZH Fibre Cable
+Public ID  : products/uqgryutjg442zv7hybwi
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 457
+Name       : Giganet Double Sheath ADSS Fibre Cable
+Public ID  : products/kplnkosqwfrizxyxxd1l
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 458
+Name       : Giganet Double Sheath Central Tube CST Armoured Fibre Cable
+Public ID  : products/muc1omjifmnysifepb3p
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 459
+Name       : Giganet Single Sheath Central Tube CST Armoured Fibre Cable
+Public ID  : products/nfwtzfkzkxxozadq2y3n
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 460
+Name       : Giganet Central Tube Sheathed Fibre Cable
+Public ID  : products/jsljuousxh6pc0hrhbdr
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 461
+Name       : Giganet Double Sheath CST Armoured Multi Loose Tube Fibre Cable
+Public ID  : products/gk2fuqvdxwwvpl1chp5o
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 462
+Name       : Giganet Single Sheath Unarmored Optical Fiber Cable Multi Loose Tube Fibre Cable
+Public ID  : products/yol8bpx3nnwi1cpuyt3z
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 463
+Name       : Giganet Single Sheath CST Armoured Multi Loose Tube Fibre Cable
+Public ID  : products/ip7ysxjlyjusuxx5hp4l
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 464
+Name       : Giganet OM3 Tight Buffered Fibre Cable
+Public ID  : products/whyusn2h8ooeyo105pgn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 465
+Name       : Giganet OM3 Double Sheath Central Tube CST Armoured Fibre Cable
+Public ID  : products/pmmam2d8pfbrqifqtfso
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 467
+Name       : Giganet OM3 Central Tube Sheathed Fibre Cable
+Public ID  : products/nqrkgehyjsojivz6pcok
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 468
+Name       : Giganet OM3 Double Sheath CST Armoured Multi Loose Tube Fibre Cable
+Public ID  : products/n4ydufzgzt5id6elm4wt
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 471
+Name       : Giganet OM4 Tight Buffered Fibre Cable
+Public ID  : products/le3gnddqugdubfobtnj9
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 472
+Name       : Giganet OM4 Double Sheath ADSS Fibre Cable
+Public ID  : products/dgikgpsdtixolsiiqgi0
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 473
+Name       : Giganet OM4 Double Sheath Central Tube CST Armoured Fibre Cable
+Public ID  : products/g0hi3i6jfblcwydfjz2s
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 475
+Name       : Giganet OM4 Central Tube Sheathed Fibre Cable
+Public ID  : products/awimfbuxxksewqtu5lvh
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 479
+Name       : Giganet 50 Port 1U Voice Patch Panel
+Public ID  : products/qngvfqfkp0acife7zzef
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 480
+Name       : Giganet Category 6 UTP 19” 12 & 24 Port Patch panel
+Public ID  : products/wgqvhl4glj5qnefr4mpf
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 481
+Name       : Giganet Category 6A FTP 24 Port Blank Patch Panel With Rear Cable Manager
+Public ID  : products/smpvdfqvnedyfcssz9vn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 482
+Name       : Giganet Category 6A FTP 24 Port Loaded Patch Panel
+Public ID  : products/akmdr05syp4craiehlfs
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 483
+Name       : Giganet Category 6A FTP 48 Port Blank Patch Panel With Rear Cable Manager
+Public ID  : products/iqfuno7ovwz7nuf0qn36
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 484
+Name       : Giganet Category 6A FTP 48 Port Loaded Patch Panel
+Public ID  : products/tl3wiei3ih3vpunmo5zi
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 485
+Name       : Giganet Category 6A FTP Angled 24 Port Blank Patch Panel With Rear Cable Manager
+Public ID  : products/y37zgjv2ne0i7tyhxtom
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 486
+Name       : Giganet Category 6A UTP 19" 24 Port 1U Patch panel
+Public ID  : products/dbofvawymmkm32ninmpn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 487
+Name       : Giganet Category 6A UTP 19" 48 Port 2U Patch panel
+Public ID  : products/hdpbcfwwrj5n3ilxd2ox
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 488
+Name       : Giganet Category 6 UTP 180 Degrees Keystone Jack Module
+Public ID  : products/wj8gdnwt9sfjxtd6ipyn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 489
+Name       : Giganet Category 6A Mini Shielded Die-cast Tool-less-Keystone Jack
+Public ID  : products/c7g0tnouq5k3m7vwmcmw
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 490
+Name       : Giganet Category 6A Shielded Die-cast Tool-less Keystone Jack
+Public ID  : products/c2dhi3gialcpnhzdswm5
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 491
+Name       : Giganet Category 6A Shielded Inline Coupler
+Public ID  : products/byri7e1kbd6mwdybz89s
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 492
+Name       : Giganet Category 6A Shielded Tool-less Keystone Jack
+Public ID  : products/vg5i0nuggsozqyjpx0ym
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 493
+Name       : Giganet Category 6A UTP Punch Down Keystone Jack
+Public ID  : products/bzqnwq2hanxqfqazukif
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 494
+Name       : Giganet Category 28 AWG, Cat6A ,UTP LSOH Patch Cords
+Public ID  : products/gfcvureangpisblyqw7v
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 495
+Name       : Giganet Category 28 AWG, Cat6A ,UTP PVC Patch Cords
+Public ID  : products/kaihzmwxlguiu0bhghvu
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 496
+Name       : Giganet Category 28 AWG,Cat6A ,S/FTP LSOH Patch Cords
+Public ID  : products/yjvezb4lc8tfjyhuwfdz
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 497
+Name       : Giganet Category 28 AWG,Cat6A ,S/FTP PVC Patch Cords
+Public ID  : products/kdg9y94tnmzaqxdra0i4
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 498
+Name       : Giganet Category 6 UTP 1 mtr Patch Cord-Grey 24-AWG
+Public ID  : products/ayhvzfdckbov5xkl5twv
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 499
+Name       : Giganet Category 6A F/FTP LSOH Patch Cord
+Public ID  : products/ji4fv4uwbm2fkkqh5iwr
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 500
+Name       : Giganet Category 6A F/FTP PVC Patch Cord
+Public ID  : products/jpftnjwmallmdhgfv4zi
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 501
+Name       : Giganet Category 6A F/UTP LSOH Patch Cord
+Public ID  : products/zxde48cbim9f9zkxrng3
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 502
+Name       : Giganet Category 6A F/UTP PVC Patch Cord
+Public ID  : products/rjinwoferhhbvmgwiud2
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 503
+Name       : Giganet Category 6A S/FTP LSOH Patch Cord
+Public ID  : products/a5m1quknlukumhjrh0bk
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 504
+Name       : Giganet Category 6A S/FTP PVC Patch Cord
+Public ID  : products/bodsncrmbpvw85kwlqdv
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 505
+Name       : Giganet Category 6A UTP LSOH Patch Cord
+Public ID  : products/bwlirwftmejj9woygp6x
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 506
+Name       : Giganet Category 6A UTP PVC Patch Cord
+Public ID  : products/ryy8adaitcmtw3wunmnn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 507
+Name       : Giganet Category 6A Solid F/UTP LSOH Cable - 305m drum
+Public ID  : products/v4apvuwk8qwdwnfzjco2
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 508
+Name       : Siemon Cat 7 S/FTP Ethernet LAN Cable 305 Meters
+Public ID  : products/grrm2ksequwltjkx5ir1
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 509
+Name       : Hikvision DS-2CE70D0T-PTLXTS 2MP Two-Way Audio & Siren Fixed PT Camera
+Public ID  : products/oouxesjbch9zbhili3ms
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 510
+Name       : Hikvision DS-2CE16D0T-LPXTS 2MP Two-Way Audio & Siren Fixed Mini Bullet Camera
+Public ID  : products/mmpczvavv6yfybewam1o
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 511
+Name       : Hikvision DS-2CE16C0T-IR HD720P IR Bullet Camera
+Public ID  : products/teq4fffj0186bmusf6sg
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 512
+Name       : Hikvision DS-2CE56C0T-IRP HD720P Indoor IR Turret Camera
+Public ID  : products/opveiembnmnu8qim1qds
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 513
+Name       : Hikvision DS-2CE78D0T-LTS 2MP Two-Way Audio Fixed Turret Camera
+Public ID  : products/hbbrgr6liydj42t5jr1j
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 514
+Name       : Hikvision DS-2CD1127G2H-LIU(F) 2 MP ColorVu with Smart Hybrid Light Fixed Dome Network Camera
+Public ID  : products/at9kkscez8ma5hzhu8kl
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 515
+Name       : Hikvision DS-2CE76D0T-LPFS 2M Dual Light Audio Indoor Fixed Turret Camera
+Public ID  : products/twhjdmo1ffqvpeqqxx5s
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 516
+Name       : Hikvision DS-2CE78K0T-LXTS 3K Two Way Audio & Siren Fixed Turret
+Public ID  : products/c12zzwrpqpzyss5qgq3c
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 517
+Name       : Hikvision DS-2CE12KF3T-LS 3K Smart Hybrid Light ColorVu Fixed Bullet Camera
+Public ID  : products/bahpzqydt8skd54p8mkp
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 518
+Name       : Hikvision DS-2CE72KF0T-FS 3K ColorVu Audio Fixed Turret Camera
+Public ID  : products/i2jhnsf9wyrq4p99zjle
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 519
+Name       : Hikvision DS-2CE12DFT-F 2 MP Full Time Color Bullet Camera
+Public ID  : products/q6qydcu32bhuetqfn1si
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 520
+Name       : Hikvision DS-2CE70DF0T-PF 2 MP ColorVu Indoor Fixed Turret Camera
+Public ID  : products/mbjr0pee4kxwp8oyfbsz
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 521
+Name       : Hikvision DS-2CE72DFT-F 2 MP Full Time Color Turret Camera
+Public ID  : products/z8yrst5av01mkcqtwijv
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 522
+Name       : Hikvision DS-2CD1323G0-IUF 2 MP Build-in Mic Fixed Turret Network Camera
+Public ID  : products/qum5xaw41p0edkpnc0wd
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 523
+Name       : Hikvision DS-2CD1023G0E-I 2 MP Fixed Bullet Network Camera
+Public ID  : products/hoel8nki8omxunwbambc
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 524
+Name       : Hikvision DS-2CD2123G0-I(S) 2 MP IR Fixed Dome Network Camera
+Public ID  : products/nyqiapxxdob7qnnrtbf4
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 525
+Name       : Hkvision DS-2CD2D25G1-D/NF 2 MP Mini Network Camera
+Public ID  : products/nrgzqh0x7kyseodiorn7
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 526
+Name       : Hikvision DS-2CD1043G2-LIU(F) 4 MP Fixed Bullet Network Camera
+Public ID  : products/nphixcep8k3owyrjl1ic
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 527
+Name       : Hikvision DS-2CD1043G0-I 4MP Fixed Bullet Network Camera
+Public ID  : products/vgapssekioxtd1se01nt
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 528
+Name       : Hikvision DS-2CD1143G0-I 4 MP Fixed Dome Network Camera
+Public ID  : products/okclc3mp9pv6tgrrpsru
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 529
+Name       : Hikvision DS-2CD2045FWD-I 4 MP IR Fixed Bullet Network Camera
+Public ID  : products/gacvjq1w1ofdihq7hsws
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 530
+Name       : Hikvision DS-2CD2047G2-L(U) 4 MP ColorVu Fixed Bullet Network Camera
+Public ID  : products/w1e6mtvrftggio8unbnj
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 531
+Name       : Hikvision DS-2CD1063G2-LIU(F) 6 MP Smart Hybrid Light Fixed Bullet Network Camera
+Public ID  : products/uukifs45ngtojzcpbffp
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 532
+Name       : Hikvision DS-2CD2066G2-I(U) 6 MP AcuSense Powered-by-DarkFighter Fixed Mini Bullet Network Camera
+Public ID  : products/vdykfa0lrjotgdnmqjtg
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 533
+Name       : Hikvision DS-2CD1163G2-LIU(F) 6 MP Smart Hybrid Light Fixed Dome Network Camera
+Public ID  : products/a15l5r0zoxewkuxkf5vt
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 534
+Name       : Hikvision DS-2CD2365G1-I 6 MP IR Fixed Turret Network Camera
+Public ID  : products/idodw3wuzywdopbuxbtr
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 535
+Name       : Hikvision DS-2CD2765G0-IZS 6 MP IR Varifocal Dome Network Camera
+Public ID  : products/bukmd8k0vwoq8f0pkzgk
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 536
+Name       : Hikvision DS-2CD2T67G2P-LSU/SL 6 MP Panoramic Fixed Bullet Network Camera
+Public ID  : products/oonmrdwhjaqeo4gcvpwr
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 537
+Name       : Hikvision DS-7104HGHI-F1 4-channel 1080p Mini 1U Lite H.264 DVR
+Public ID  : products/yphjxnyar0toinqrt4ro
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 538
+Name       : Hikvision DS-7104HGHI-M1 4-channel 720p Mini 1U H.265 DVR
+Public ID  : products/jrbgs5je9kzmhglumaev
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 539
+Name       : Hikvision DS-7104HGHI-K1 4-channel 1080p Lite Mini 1U H.265 DVR
+Public ID  : products/nkyormjja7uhl0qlgbdo
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 540
+Name       : Hikvision DS-E04HGHI-XD 4-channel 1080pLite 1U H.265 eSSD DVR
+Public ID  : products/hpeetksn7dnzlalxpvhd
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 541
+Name       : Hikvision DS-7108HGHI-M1 8-channel TURBO HD DVR
+Public ID  : products/hqjiikiv3yubldeldt66
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 542
+Name       : Hikvision DS-7108HQHI-K1 8-channel 1080p Mini 1U H.265 DVR
+Public ID  : products/u1lyumrmtkugn8wsqbqg
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 543
+Name       : Hikvision DS-E08HGHI-XB 8-channel 1080p Lite 1U H.265 eSSD DVR
+Public ID  : products/igaztj0zsbatsrxb6oae
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 544
+Name       : Hikvision IDS-7108HUHI-M1/S 8-channel 5MP Mini 1U H.265 AcuSense DVR
+Public ID  : products/vstdpjls581oj5y3uejh
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 545
+Name       : Hikvision DS-7116HGHI-M1 16-channel TURBO HD DVR
+Public ID  : products/r6qni5jgpisbqh06ocqp
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 546
+Name       : Hikvision DS-7216HGHI-M1 16-channel 720p 1U H.265 DVR
+Public ID  : products/y5q2p8krzqznjc07bjni
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 547
+Name       : Hikvision DS-7216HQHI-K1 16-channel 1080p 1U H.265 DVR
+Public ID  : products/pr3s5vhkfrr4ulg3yczc
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 548
+Name       : Hikvision DS-7216HGHI-F1 16-channel 1080p Lite 1U H.264 DVR
+Public ID  : products/ggwmggouqbgjptggh6wz
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 549
+Name       : Hikvision IDS-7216HQHI-M1/S 16-channel 1080p 1U H.265 AcuSense DVR
+Public ID  : products/cui5hvbybr6o8s97ai08
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 550
+Name       : Hikvision DS-7104NI-Q1/4P/M 4-channel Value 7 Series NVR
+Public ID  : products/ljy6x2fdh27cy8rrlre8
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 551
+Name       : Hikvision DS-7604NXI-K1/4P 4-channel AcuSense NVR
+Public ID  : products/roopv49gyavztqaajhok
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 552
+Name       : Hikvision DS-7608NI-K2/8P 8-channel 1U 8 PoE 4K NVR
+Public ID  : products/sr1mxxdces3aerlj1qku
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 553
+Name       : Hikvision DS-7108NI-Q1 8-channel Value 7 Series NVR
+Public ID  : products/zkvwe52az4a7r7v4hgd5
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 554
+Name       : Hikvision DS-7608NXI-K1 8-channel AcuSense NVR
+Public ID  : products/cu4olflhus7ykwukpqjb
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 555
+Name       : Hikvision DS-7616NXI-K2/16P 16-channel AcuSense NVR
+Public ID  : products/dfrobcvyuychf6ymb9rq
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 556
+Name       : Hikvision DS-7616NI-Q2/16P (D) 16-channel NVR
+Public ID  : products/ojsfyqzkv9arqfe3ni5r
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 557
+Name       : Hikvision DS-7616NI-I2/16P(C) 16-channel 1U 16 PoE 4K NVR
+Public ID  : products/ynmrlgmqui6lmluxfvzm
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 558
+Name       : Hikvision DS-7732NXI-K4/16P 32-channel 1.5U 16 PoE K Series AcuSense 4K
+Public ID  : products/tit5jv5i6bgog2muwcrn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 559
+Name       : Hikvision DS-7632NXI-K2 32-channel 1U K Series AcuSense 4K NVR
+Public ID  : products/bemtmd7yzvux6sgivvho
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 560
+Name       : Hikvision DS-9632NI-I8 32-channel 2U 4K NVR
+Public ID  : products/shxam8ajso95vekbvvhn
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 561
+Name       : Hikvision DS-7732NI-M4 32-channel M Series 8K NVR
+Public ID  : products/emjkabibqgjvaf2mhlhl
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
+Product ID : 562
+Name       : Hikvision DS-7732NI-K4 32-channel Series NVR
+Public ID  : products/szejeag94chujraqrm90
+Error      : Could not check destination: Error 420 - Rate Limit Exceeded. Limit of 500 api operations reached. Try again on 2026-09-22 10:00:00 UTC
+----------------------------------------------------------------------
