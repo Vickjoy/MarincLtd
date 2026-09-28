@@ -45,8 +45,13 @@ INSTALLED_APPS = [
 
 SITE_ID = 1
 
+# NOTE: The site-wide cache middleware (UpdateCacheMiddleware / FetchFromCacheMiddleware)
+# was removed. It caches GET responses by URL and can serve a logged-in user's
+# price-visible response to an anonymous visitor (and the reverse), because the JWT
+# Authorization header is not part of the cache key.
+# Use per-view caching instead, e.g. @method_decorator(cache_page(300)) together with
+# @method_decorator(vary_on_headers('Authorization')).
 MIDDLEWARE = [
-    'django.middleware.cache.UpdateCacheMiddleware',  # ✅ Must be first for site-wide caching
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -56,7 +61,6 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'allauth.account.middleware.AccountMiddleware',
-    'django.middleware.cache.FetchFromCacheMiddleware',  # ✅ Must be last for site-wide caching
 ]
 
 ROOT_URLCONF = 'Marinc.urls'
@@ -87,23 +91,24 @@ DATABASES = {
 }
 
 # ===============================
-# Caching Configuration (✅ UPDATED)
+# Caching Configuration
 # ===============================
+# LocMemCache is per-process. With several gunicorn workers each worker keeps its own
+# throttle counters and cache. Use Redis or a database cache in production.
 CACHES = {
     'default': {
         'BACKEND': 'django.core.cache.backends.locmem.LocMemCache',
         'LOCATION': 'marincsystems-unique-cache',
         'TIMEOUT': 900,  # 15 minutes default timeout
         'OPTIONS': {
-            'MAX_ENTRIES': 2000,  # Increased for better capacity
-            'CULL_FREQUENCY': 3,  # Remove 1/3 of entries when max is reached
+            'MAX_ENTRIES': 2000,
+            'CULL_FREQUENCY': 3,
         }
     },
 }
 
-# Cache middleware configuration
 CACHE_MIDDLEWARE_ALIAS = 'default'
-CACHE_MIDDLEWARE_SECONDS = 300  # 5 minutes for general pages
+CACHE_MIDDLEWARE_SECONDS = 300
 CACHE_MIDDLEWARE_KEY_PREFIX = 'marincsystems'
 
 # Cache key prefixes for different data types
@@ -236,9 +241,11 @@ REST_FRAMEWORK = {
         'rest_framework.throttling.AnonRateThrottle',
         'rest_framework.throttling.UserRateThrottle'
     ],
+    # Previously 100/hour anon and 200/hour user. That was far too low for a
+    # catalogue site: one page load makes 15-25 requests, and offices share an IP.
     'DEFAULT_THROTTLE_RATES': {
-        'anon': '100/hour',
-        'user': '200/hour'
+        'anon': '10000/hour' if DEBUG else '120/minute',
+        'user': '20000/hour' if DEBUG else '300/minute',
     }
 }
 
@@ -263,17 +270,18 @@ SOCIALACCOUNT_PROVIDERS = {
     }
 }
 
+# Logging: errors and warnings now print to the console instead of being discarded.
 LOGGING = {
     'version': 1,
-    'disable_existing_loggers': True,
+    'disable_existing_loggers': False,
     'handlers': {
-        'null': {
-            'class': 'logging.NullHandler',
+        'console': {
+            'class': 'logging.StreamHandler',
         },
     },
     'root': {
-        'handlers': ['null'],
-        'level': 'CRITICAL',
+        'handlers': ['console'],
+        'level': 'WARNING',
     },
 }
 
